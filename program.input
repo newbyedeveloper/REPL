@@ -1,0 +1,7 @@
+numero = 22;
+var = numero + 50;
+a = 33 + numero + var;
+b = a+a;
+c = b + a + var + numero + 37;
+total = c + b + a + var + numero;
+print total;
